@@ -2,7 +2,7 @@
 int main()
 {
     int temp;
-    std::cout << "hello world version 3.0";
+    std::cout << "edited file";
     std::cin.clear();
     std::cin >> temp;
     std::cout << temp;
